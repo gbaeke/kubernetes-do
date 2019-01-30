@@ -1,7 +1,9 @@
 # kubernetes-do
 Kubernetes on DigitalOcean with Terraform
 
-export DO_PAT=Your_DigitalOcean_PAT
+Obtain a DigitalOcean PAT and set an environment variable
+- export DO_PAT=Your_DigitalOcean_PAT
+
 
 terraform init
 
